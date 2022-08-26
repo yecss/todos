@@ -1,6 +1,6 @@
 ## 新版 todo
 
-![](https://i.bmp.ovh/imgs/2022/08/26/0e44bc2239f8a130.png)
+![](https://cdn.jsdelivr.net/gh/yecss/imageStore@main/picgo/Snipaste_2022-08-26_20-12-27.jpg)
 
 ## 详细
 
